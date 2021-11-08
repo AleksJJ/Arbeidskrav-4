@@ -1,0 +1,11 @@
+---
+title: "Arbeidskrav 4(2)"
+author: "Aleksander Josdal"
+date: "4 11 2021"
+output: html_document
+bibliography: references.bib
+---
+
+Introduksjon
+
+[@schoenfeld2015]
